@@ -171,7 +171,14 @@ header {
 
 .team-name {
   text-align: center;
+
+  background: #ffffff;
+}
+
+.team-name-cards {
+  text-align: center;
   padding-top: 30px;
+
   background: #ffffff;
 }
 
@@ -216,7 +223,7 @@ p {
   color: var(--grey-color);
   font-size: 14px;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 
 img {
